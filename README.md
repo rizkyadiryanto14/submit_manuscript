@@ -1,1 +1,1 @@
-# submit_manuscript
+# Submit Manuscript V1.2
